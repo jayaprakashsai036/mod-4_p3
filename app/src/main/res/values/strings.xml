@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Agentic SDC Project 3</string>
+    <string name="message_hint">Ask something...</string>
+    <string name="send">Send</string>
+    <string name="network_error">Unable to connect to the Python backend.</string>
+</resources>
